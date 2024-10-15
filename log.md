@@ -13,4 +13,4 @@
 **Thoughts** Not a very progressive day :/ For a long time I couldn`t figure out how to work with BigInteger. Tomorrow I need to work a little harder...
 **Link(s) to work**
 1. [Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
-[Implement a method that merges two arrays of numbers sorted in descending order into one array sorted in the same order.](https://stepik.org/lesson/12762/step/9?auth=login&unit=3110)
+2.[Implement a method that merges two arrays of numbers sorted in descending order into one array sorted in the same order.](https://stepik.org/lesson/12762/step/9?auth=login&unit=3110)
