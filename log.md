@@ -1,30 +1,16 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: October 14, Monday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Started learning about Java and git. Made a simple calculator ;)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 2: October 15, Tuesday
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Today's Progress**: Studied in-depth (Input/Output) in Java. Wrote 2 programs:
+1: Calculates factorial.
+2: Merge of sorted arrays.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
+**Thoughts** Not a very progressive day :/ For a long time I couldn`t figure out how to work with BigInteger. Tomorrow I need to work a little harder...
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
+[Implement a method that merges two arrays of numbers sorted in descending order into one array sorted in the same order.](https://stepik.org/lesson/12762/step/9?auth=login&unit=3110)
