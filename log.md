@@ -6,9 +6,9 @@
 
 ### Day 2: October 15, Tuesday
 
-**Today's Progress**: Studied in-depth (Input/Output) in Java. Wrote 2 programs:
+**Today's Progress**: Studied in-depth (Input/Output) in Java.
+Wrote 2 programs:
 1: Calculates factorial.
-
 2: Merge of sorted arrays.
 
 ### Day 3: October 16, Wednesday
