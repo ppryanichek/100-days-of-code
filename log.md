@@ -24,7 +24,7 @@ Wrote a program to remove duplicate elements from the array.
 
 **Today`s Progress**: Studied access modifiers, OOP in Java (encapsulation, abstraction, polymorphism, inheritance). Worked with abstract methods and interfaces. 
 
-**Thoughts**I didn't understand how to work with newInstance, I think I will get to it later. 
+**Thoughts**: I didn't understand how to work with newInstance, I think I will get to it later. 
 
 **Link(s) to work**
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
