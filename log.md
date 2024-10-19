@@ -26,7 +26,12 @@ Wrote a program to remove duplicate elements from the array.
 
 **Thoughts**: I didn't understand how to work with newInstance, I think I will get to it later. 
 
+### Day 6: October 19, Saturday
+
+**Today`s Progress**: Found out about interfaces such as: functional, nested, marker. Understood what Singleton class and Lazy initialization are, how, when and what implementation of Singleton to use.
+
 **Link(s) to work**
+
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
 
 2.[Implement a method that merges two arrays of numbers sorted in descending order into one array sorted in the same order.](https://stepik.org/lesson/12762/step/9?auth=login&unit=3110)
