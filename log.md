@@ -30,6 +30,11 @@ Wrote a program to remove duplicate elements from the array.
 
 **Today`s Progress**: Found out about interfaces such as: functional, nested, marker. Understood what Singleton class and Lazy initialization are, how, when and what implementation of Singleton to use.
 
+### Day 7: October 20, Sunday
+
+**Today`s Progress**: Today I gained more knowledge about Java classes, including static, internal, anonymous, and enum classes. 
+Tried to solve the problem of Duck Duck Goose on codewars. The problem solved, but program run out of time, so I peeped into the answer and realized how to solve this problem.
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
