@@ -33,7 +33,12 @@ Wrote a program to remove duplicate elements from the array.
 ### Day 7: October 20, Sunday
 
 **Today`s Progress**: Today I gained more knowledge about Java classes, including static, internal, anonymous, and enum classes. 
+
 Tried to solve the problem of Duck Duck Goose on codewars. The problem solved, but program run out of time, so I peeped into the answer and realized how to solve this problem.
+
+### Day 7: October 21, Monday
+
+**Today`s Progress**: Today I worked with List and ArrayList, made a simple timer that counts the program's runtime (made it in package).
 
 **Link(s) to work**
 
