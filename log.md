@@ -46,6 +46,12 @@ Tried to solve the problem of Duck Duck Goose on codewars. The problem solved, b
 
 Worked with regular expressions and wrote a program to check the PIN code (from CodeWars).
 
+### Day 10: October 23, Wednesday
+
+**Today`s Progress**: Read about the difference between Comparator and Comparable. Continued studying Java Collections Framework. 
+
+Solved the problem (Convert an array of ones and zeros into an integer).
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
@@ -55,3 +61,5 @@ Worked with regular expressions and wrote a program to check the PIN code (from 
 3.[Iterate Over the Characters of a String in Java](https://www.geeksforgeeks.org/iterate-over-the-characters-of-a-string-in-java/)
 
 4.[Regex validate PIN code](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132)
+
+5.[Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c/java)
