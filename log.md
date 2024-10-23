@@ -40,6 +40,12 @@ Tried to solve the problem of Duck Duck Goose on codewars. The problem solved, b
 
 **Today`s Progress**: Today I worked with List and ArrayList, made a simple timer that counts the program's runtime (made it in package).
 
+### Day 9: October 22, Tuesday
+
+**Today`s Progress**: Learned about memory management in Java, stack and heap, and Garbage Collector. 
+
+Worked with regular expressions and wrote a program to check the PIN code (from CodeWars).
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
@@ -47,3 +53,5 @@ Tried to solve the problem of Duck Duck Goose on codewars. The problem solved, b
 2.[Implement a method that merges two arrays of numbers sorted in descending order into one array sorted in the same order.](https://stepik.org/lesson/12762/step/9?auth=login&unit=3110)
 
 3.[Iterate Over the Characters of a String in Java](https://www.geeksforgeeks.org/iterate-over-the-characters-of-a-string-in-java/)
+
+4.[Regex validate PIN code](https://www.codewars.com/kata/55f8a9c06c018a0d6e000132)
