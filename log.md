@@ -52,6 +52,12 @@ Worked with regular expressions and wrote a program to check the PIN code (from 
 
 Solved the problem (Convert an array of ones and zeros into an integer).
 
+### Day 11: October 24, Thursday
+
+**Today`s Progress**: I've mostly been solving challenges on CodeWars today. 
+
+Learned a bit about exceptions in Java (exception types), about try-catch-finally, trow and trows blocks.
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
