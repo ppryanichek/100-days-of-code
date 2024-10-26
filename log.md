@@ -65,6 +65,10 @@ Learned a bit about exceptions in Java (exception types), about try-catch-finall
 
 Started studying multithreaded programming.
 
+### Day 13: October 26, Saturday
+
+**Today`s Progress**: Learned about thread priority in Java, how to get and set thread’s name, a bit about thread pool and about daemon thread in general.
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
