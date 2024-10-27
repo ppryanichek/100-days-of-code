@@ -69,6 +69,12 @@ Started studying multithreaded programming.
 
 **Today`s Progress**: Learned about thread priority in Java, how to get and set thread’s name, a bit about thread pool and about daemon thread in general.
 
+### Day 14: October 27, Sunday
+
+**Today`s Progress**: Learned about thread group and thread safety. 
+
+Found out how to pass functions as a variables. 
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
