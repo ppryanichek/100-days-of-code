@@ -75,6 +75,14 @@ Started studying multithreaded programming.
 
 Found out how to pass functions as a variables. 
 
+### Day 15: October 28, Monday
+
+**Today`s Progress**: Learned about Shutdown Hook. 
+
+Started studying Java Synchronization. 
+
+Also learned about Record keyword
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
