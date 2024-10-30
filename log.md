@@ -87,6 +87,12 @@ Also learned about Record keyword
 
 **Today`s Progress**: Worked with Date type. Made a simple CLI clock with date and time. Repeated synchronization of blocks and methods in Java.
 
+### Day 17: October 30, Wednesday
+
+**Today`s Progress**: Learned about Mutex, Lock, Monitor and Semaphore. 
+
+Also learned the differences between Atomic and Volatile variables.
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
