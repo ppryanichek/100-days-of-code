@@ -93,6 +93,12 @@ Also learned about Record keyword
 
 Also learned the differences between Atomic and Volatile variables.
 
+### Day 18: October 31, Thursday
+
+**Today`s Progress**: I started studying File class in Java and decided to make a CLI task tracker. 
+
+At the moment I realized adding and writing task object to file.
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
