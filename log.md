@@ -99,6 +99,11 @@ Also learned the differences between Atomic and Volatile variables.
 
 At the moment I realized adding and writing task object to file.
 
+### Day 19: November 1, Thursday
+
+**Today`s Progress**: Today I wanted to add the ability to change task data in CLI Task Tracker, I spent a long time and realized that I made a mistake in the very beginning. 
+I decided to write it all from the beginning. 
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
