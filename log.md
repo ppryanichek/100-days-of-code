@@ -99,10 +99,16 @@ Also learned the differences between Atomic and Volatile variables.
 
 At the moment I realized adding and writing task object to file.
 
-### Day 19: November 1, Thursday
+### Day 19: November 1, Friday
 
 **Today`s Progress**: Today I wanted to add the ability to change task data in CLI Task Tracker, I spent a long time and realized that I made a mistake in the very beginning. 
 I decided to write it all from the beginning. 
+
+### Day 20: November 2, Saturday
+
+**Today`s Progress**: Learned how to read and write files in Java. 
+
+Started rewriting the task tracker (put classes in packages and made a normal version of adding a task).
 
 **Link(s) to work**
 
