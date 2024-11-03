@@ -110,6 +110,12 @@ I decided to write it all from the beginning.
 
 Started rewriting the task tracker (put classes in packages and made a normal version of adding a task).
 
+### Day 21: November 3, Sunday
+
+**Today`s Progress**: I learned about JSON files. 
+
+Alas, today I failed to output jobs from a file. 
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
