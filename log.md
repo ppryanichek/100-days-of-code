@@ -114,7 +114,7 @@ Started rewriting the task tracker (put classes in packages and made a normal ve
 
 **Today`s Progress**: I learned about JSON files. 
 
-Alas, today I failed to output jobs from a file. 
+Alas, today I failed to output tasks from a file. 
 
 **Link(s) to work**
 
