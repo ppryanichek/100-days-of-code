@@ -116,6 +116,12 @@ Started rewriting the task tracker (put classes in packages and made a normal ve
 
 Alas, today I failed to output tasks from a file. 
 
+### Day 22: November 4, Monday
+
+**Today`s Progress**: Made a CLI task tracker! Not without the help of the internet and peeking at other people's solutions 😔. 
+
+Took a long time with json (couldn't read json file because of extra comma in line appending).
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
