@@ -120,6 +120,14 @@ Alas, today I failed to output tasks from a file.
 
 **Today`s Progress**: Made a CLI task tracker! Not without the help of the internet and peeking at other people's solutions 😔. 
 
+### Day 23: November 5, Tuesday
+
+**Today`s Progress**: Nice! I got blocked at X. 
+
+Got a little familiar with build systems like ant, maven, gradle. 
+
+Added comments to the task tracker and finished a couple of little things.
+
 Took a long time with json (couldn't read json file because of extra comma in line appending).
 
 **Link(s) to work**
