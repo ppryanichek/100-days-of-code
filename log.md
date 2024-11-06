@@ -130,7 +130,6 @@ Got a little familiar with build systems like ant, maven, gradle.
 
 Added comments to the task tracker and finished a couple of little things.
 
-
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
