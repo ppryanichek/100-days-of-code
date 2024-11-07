@@ -136,6 +136,13 @@ Added comments to the task tracker and finished a couple of little things.
 
 Most of the time I was trying to figure out how to work with junit to make tests to task tracker (still haven't done it). 
 
+### Day 25: November 7, Thursday
+
+**Today`s Progress**: I realized that I had a bad understanding of packages and project structure, so I learned it. 
+
+I also went deeper into working with files (learned about BufferedInputStream) and wrote a small program for an example.
+
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
