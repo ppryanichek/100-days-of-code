@@ -142,6 +142,9 @@ Most of the time I was trying to figure out how to work with junit to make tests
 
 I also went deeper into working with files (learned about BufferedInputStream) and wrote a small program for an example.
 
+### Day 26: November 8, Friday
+
+**Today`s Progress**: Today I practiced deleting files and learned the regex again (a bit hard to remember).
 
 **Link(s) to work**
 
