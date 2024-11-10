@@ -152,6 +152,12 @@ I also went deeper into working with files (learned about BufferedInputStream) a
 
 **Today`s Progress**: *Wrote a program from the codewars task.\ *Figured out how to test the program.\ *Learned about markdown file formatting.
 
+### Day 28: November 10, Saturday
+
+**Today`s Progress**: Today I started learning about java networking. Learned in general about network classes and sockets. 
+
+Tried to repeat the one-way configuration of the server and client to output messages using a socket (so the mistake is still somewhere, but I'll figure it out tomorrow).
+
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
 
 2.[Implement a method that merges two arrays of numbers sorted in descending order into one array sorted in the same order.](https://stepik.org/lesson/12762/step/9?auth=login&unit=3110)
