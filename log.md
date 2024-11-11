@@ -158,6 +158,10 @@ I also went deeper into working with files (learned about BufferedInputStream) a
 
 Tried to repeat the one-way configuration of the server and client to output messages using a socket (so the mistake is still somewhere, but I'll figure it out tomorrow).
 
+### Day 29: November 11, Sunday
+
+**Today`s Progress**: My brain refused to work today. I tried to solve a problem on CodeWars (it turned out with a small crutch, but I passed the test).
+
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
 
 2.[Implement a method that merges two arrays of numbers sorted in descending order into one array sorted in the same order.](https://stepik.org/lesson/12762/step/9?auth=login&unit=3110)
