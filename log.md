@@ -150,8 +150,9 @@ I also went deeper into working with files (learned about BufferedInputStream) a
 
 ### Day 27: November 9, Saturday
 
-**Today`s Progress**: * Wrote a program from the codewars task. \ 
-* Figured out how to test the program. \ 
+**Today`s Progress**: 
+* Wrote a program from the codewars task. 
+* Figured out how to test the program.
 * Learned about markdown file formatting.
 
 ### Day 28: November 10, Saturday
