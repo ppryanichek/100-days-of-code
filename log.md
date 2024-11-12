@@ -155,15 +155,21 @@ I also went deeper into working with files (learned about BufferedInputStream) a
 * Figured out how to test the program.
 * Learned about markdown file formatting.
 
-### Day 28: November 10, Saturday
+### Day 28: November 10, Sunday
 
 **Today`s Progress**: Today I started learning about java networking. Learned in general about network classes and sockets. 
 
 Tried to repeat the one-way configuration of the server and client to output messages using a socket (so the mistake is still somewhere, but I'll figure it out tomorrow).
 
-### Day 29: November 11, Sunday
+### Day 29: November 11, Monday
 
 **Today`s Progress**: My brain refused to work today. I tried to solve a problem on CodeWars (it turned out with a small crutch, but I passed the test).
+
+### Day 30: November 12, Tuesday
+
+**Today`s Progress**: Made one-way message transmission from client to server and message acknowledgement. 
+
+Solved the problem on CodeWars "Stop gninnipS My sdroW!"
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
 
