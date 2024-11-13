@@ -171,6 +171,10 @@ Tried to repeat the one-way configuration of the server and client to output mes
 
 Solved the problem on CodeWars "Stop gninnipS My sdroW!"
 
+### Day 31: November 13, Wednesday
+
+**Today`s Progress**: I tried to realize multi-user message passing via socket. Today I wrote only the server side and client a bit. I really want to sleep...
+
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
 
 2.[Implement a method that merges two arrays of numbers sorted in descending order into one array sorted in the same order.](https://stepik.org/lesson/12762/step/9?auth=login&unit=3110)
