@@ -175,7 +175,7 @@ Solved the problem on CodeWars "Stop gninnipS My sdroW!"
 
 **Today`s Progress**: I tried to realize multi-user message passing via socket. Today I wrote only the server side and client a bit. I really want to sleep...
 
-### Day 32: November 134, Thursday
+### Day 32: November 14, Thursday
 
 **Today`s Progress**: I made message passing between users, but I can't stop by key "stop" or "end". :((
 
