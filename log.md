@@ -179,6 +179,12 @@ Solved the problem on CodeWars "Stop gninnipS My sdroW!"
 
 **Today`s Progress**: I made message passing between users, but I can't stop by key "stop" or "end". :((
 
+### Miss a day
+
+I'm exhausted today. Haven't slept well in a week.
+Gonna get some sleep and continue tomorrow. 
+It's 101DaysOfCode now.
+
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
 
 2.[Implement a method that merges two arrays of numbers sorted in descending order into one array sorted in the same order.](https://stepik.org/lesson/12762/step/9?auth=login&unit=3110)
