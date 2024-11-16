@@ -185,6 +185,12 @@ I'm exhausted today. Haven't slept well in a week.
 Gonna get some sleep and continue tomorrow. 
 It's 101DaysOfCode now.
 
+### Day 33: November 16, Saturday
+
+**Today`s Progress**: I finally made a multi-user chat via socket. 
+
+I should have used hashmap instead of linkedlist to be able to assign names to users (I have all users on the other side named "User 2" :)
+
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
 
 2.[Implement a method that merges two arrays of numbers sorted in descending order into one array sorted in the same order.](https://stepik.org/lesson/12762/step/9?auth=login&unit=3110)
