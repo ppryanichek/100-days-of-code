@@ -189,14 +189,14 @@ It's 101DaysOfCode now.
 
 **Today`s Progress**: I finally made a multi-user chat via socket. 
 
+I should have used hashmap instead of linkedlist to be able to assign names to users (I have all users on the other side named "User 2" :)
+
 ### Day 34: November 17, Sunday
 
 **Today`s Progress**: 
 * Learned about generics, generic classes and wildcards in java. 
 * Read about IPv4 & IPv6. 
 * Raised kata on codewars now I have 6 kyu.
-
-I should have used hashmap instead of linkedlist to be able to assign names to users (I have all users on the other side named "User 2" :)
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
 
