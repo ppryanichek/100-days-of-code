@@ -146,8 +146,6 @@ I also went deeper into working with files (learned about BufferedInputStream) a
 
 **Today`s Progress**: Today I practiced deleting files and learned the regex again (a bit hard to remember).
 
-**Link(s) to work**
-
 ### Day 27: November 9, Saturday
 
 **Today`s Progress**: 
@@ -197,6 +195,14 @@ I should have used hashmap instead of linkedlist to be able to assign names to u
 * Learned about generics, generic classes and wildcards in java. 
 * Read about IPv4 & IPv6. 
 * Raised kata on codewars now I have 6 kyu.
+
+### Day 35: November 18, Monday
+
+**Today`s Progress**: Started to understand how to work with Stream API. Took apart a couple of examples and tried to solve a task on codewars using Stream (didn't work). 
+
+This topic is hard for me, I think it will take enough time... I'll continue tomorrow.
+
+**Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
 
