@@ -202,6 +202,13 @@ I should have used hashmap instead of linkedlist to be able to assign names to u
 
 This topic is hard for me, I think it will take enough time... I'll continue tomorrow.
 
+### Day 36: November 19, Tuesday
+
+**Today`s Progress**: 
+* I tried to solve a problem on codewars using Stream API (I didn't understand if it is possible to iterate two variables at once). 
+* -> Learned about lambda expressions and default methods. 
+> It's still a tough one for me though. I think I'll skip the Stream topic for now. I will come back to it from time to time.
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
