@@ -209,6 +209,15 @@ This topic is hard for me, I think it will take enough time... I'll continue tom
 * -> Learned about lambda expressions and default methods. 
 > It's still a tough one for me though. I think I'll skip the Stream topic for now. I will come back to it from time to time.
 
+### Day 37: November 20, Wednesday
+
+**Today`s Progress**: 
+🤓Today I found out about the Optional class and how to work with it. 
+
+🙆‍♂️Also learned about the default methods and method references.
+
+🧹I think I should take some time to clean up github ,‘)
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
