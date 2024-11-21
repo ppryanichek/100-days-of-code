@@ -212,11 +212,20 @@ This topic is hard for me, I think it will take enough time... I'll continue tom
 ### Day 37: November 20, Wednesday
 
 **Today`s Progress**: 
+
 🤓Today I found out about the Optional class and how to work with it. 
 
 🙆‍♂️Also learned about the default methods and method references.
 
 🧹I think I should take some time to clean up github ,‘)
+
+### Day 38: November 21, Thursday
+
+**Today`s Progress**: 
+
+🙂‍↕️Today I learned more about annotations and how to use them. 
+
+🔁Repeated Java.time and Stream.filter().
 
 **Link(s) to work**
 
