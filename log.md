@@ -227,6 +227,12 @@ This topic is hard for me, I think it will take enough time... I'll continue tom
 
 🔁Repeated Java.time and Stream.filter().
 
+### Day 39: November 22, Friday
+
+**Today`s Progress**: 
+
+Today I started learning sql (postgresql) but still can't get the server running 👍👍
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
