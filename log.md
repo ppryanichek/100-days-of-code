@@ -233,6 +233,14 @@ This topic is hard for me, I think it will take enough time... I'll continue tom
 
 Today I started learning sql (postgresql) but still can't get the server running 👍👍
 
+### Day 40: November 23, Saturday
+
+**Today`s Progress**: 
+
+Today I spent 1.5 hours to correctly install postgreSQL and connect the server. I did it! 
+
+I created a BD and played with the table a bit.
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
