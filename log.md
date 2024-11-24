@@ -239,7 +239,17 @@ Today I started learning sql (postgresql) but still can't get the server running
 
 Today I spent 1.5 hours to correctly install postgreSQL and connect the server. I did it! 
 
-I created a BD and played with the table a bit.
+I created a DB and played with the table a bit.
+
+### Day 41: November 24, Sunday
+
+**Today`s Progress**:
+
+Started learning JDBC. 
+
+I struggled with connecting to DB in VSCode. (I haven't figured it out yet). 
+
+In IntelliJ IDEA it was much easier.
 
 **Link(s) to work**
 
