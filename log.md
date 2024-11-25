@@ -251,6 +251,14 @@ I struggled with connecting to DB in VSCode. (I haven't figured it out yet).
 
 In IntelliJ IDEA it was much easier.
 
+### Day 42: November 25, Monday
+
+**Today`s Progress**:
+
+As a follow-up to last night, I figured out how to connect JDBC in VSCode using Maven, and dealt with some simple SQL queries. 
+
+It takes a lot of time, even if it feels like you haven't done anything yet......
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
