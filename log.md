@@ -259,6 +259,22 @@ As a follow-up to last night, I figured out how to connect JDBC in VSCode using 
 
 It takes a lot of time, even if it feels like you haven't done anything yet......
 
+### Day 43: November 26, Tuesday
+
+**Today`s Progress**:
+
+😌Today I learned how to: 
+* execute a project using Maven 
+* connect a DB to a project
+* use DriverManager
+* create a statement
+* execute the query
+
+Also learned about query types. 
+
+Solved the problem using Stream API 🎉
+
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
