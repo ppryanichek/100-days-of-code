@@ -274,6 +274,11 @@ Also learned about query types.
 
 Solved the problem using Stream API 🎉
 
+### Day 44: November 27, Tuesday
+
+**Today`s Progress**:
+
+Learned Basic SQL Syntax - SQL Keywords, Data Types, Operators and DDL
 
 **Link(s) to work**
 
