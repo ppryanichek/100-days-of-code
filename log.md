@@ -274,11 +274,15 @@ Also learned about query types.
 
 Solved the problem using Stream API 🎉
 
-### Day 44: November 27, Tuesday
+### Day 44: November 27, Wednesday
 
 **Today`s Progress**:
 
+### Day 45: November 28, Thursday
+
 Learned Basic SQL Syntax - SQL Keywords, Data Types, Operators and DDL
+
+Learned about autoincrement, dates, views, index, SQL injections and how to prevent them.
 
 **Link(s) to work**
 
