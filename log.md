@@ -284,6 +284,14 @@ Learned Basic SQL Syntax - SQL Keywords, Data Types, Operators and DDL
 
 Learned about autoincrement, dates, views, index, SQL injections and how to prevent them.
 
+### Day 46: November 29, Friday
+
+Figured out about JOINs in SQL! SELF JOIN was hard for me ...
+
+Learned about SELF JOIN, CROSS JOIN and NATURAL JOIN (useful stuff✨).
+
+And just practiced in creating and linking tables.
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
