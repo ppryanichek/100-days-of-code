@@ -280,17 +280,31 @@ Solved the problem using Stream API 🎉
 
 ### Day 45: November 28, Thursday
 
+**Today`s Progress**:
+
 Learned Basic SQL Syntax - SQL Keywords, Data Types, Operators and DDL
 
 Learned about autoincrement, dates, views, index, SQL injections and how to prevent them.
 
 ### Day 46: November 29, Friday
 
+**Today`s Progress**:
+
 Figured out about JOINs in SQL! SELF JOIN was hard for me ...
 
 Learned about SELF JOIN, CROSS JOIN and NATURAL JOIN (useful stuff✨).
 
 And just practiced in creating and linking tables.
+
+### Day 47: November 30, Saturday
+
+**Today`s Progress**:
+
+Learned how to create scalar functions. 
+
+Got how to create table functions, but something didn't work....  
+
+I don't know why, but I can't make a query with "WITH".
 
 **Link(s) to work**
 
