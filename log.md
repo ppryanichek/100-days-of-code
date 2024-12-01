@@ -306,6 +306,14 @@ Got how to create table functions, but something didn't work....
 
 I don't know why, but I can't make a query with "WITH".
 
+### Day 48: December 1, Sund
+
+**Today`s Progress**:
+
+I have figured out how to create a table function! 
+
+Learned what nested and correlated subqueries are.
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
