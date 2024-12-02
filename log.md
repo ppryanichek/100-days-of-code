@@ -306,13 +306,25 @@ Got how to create table functions, but something didn't work....
 
 I don't know why, but I can't make a query with "WITH".
 
-### Day 48: December 1, Sund
+### Day 48: December 1, Sunday
 
 **Today`s Progress**:
 
 I have figured out how to create a table function! 
 
 Learned what nested and correlated subqueries are.
+
+### Day 49: December 2, Monday
+
+**Today`s Progress**:
+
+Today learned about advanced features such as: 
+* Date / Time 
+* COALESCE
+* CASE
+* NULLIF
+
+and understood how to work with VIEWS 
 
 **Link(s) to work**
 
