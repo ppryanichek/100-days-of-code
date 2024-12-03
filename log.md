@@ -326,6 +326,14 @@ Today learned about advanced features such as:
 
 and understood how to work with VIEWS 
 
+### Day 50: December 3, Tuesday
+
+**Today`s Progress**:
+
+Learned about indexes management and query optimization. 
+
+Also learned a bit about transactions.
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
