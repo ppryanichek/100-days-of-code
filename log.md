@@ -334,6 +334,14 @@ Learned about indexes management and query optimization.
 
 Also learned a bit about transactions.
 
+### Day 51: December 4, Wednesday
+
+**Today`s Progress**:
+
+Today I've delved into transactions. 
+
+I understood how COMMIT, ROLLBACK and SAVEPOINT work, but I haven't understood how to apply them yet....
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
