@@ -342,6 +342,16 @@ Today I've delved into transactions.
 
 I understood how COMMIT, ROLLBACK and SAVEPOINT work, but I haven't understood how to apply them yet....
 
+### Day 52: December 6, Friday
+
+**Today`s Progress**:
+
+Couldn't resist the urge to sleep yesterday... so +1 day to the challenge.
+
+Today I tried to understand the transaction isolation levels (I think I understood it).
+
+I also realized that pgadmin implicitly wraps all code in BEGIN; ... COMMIT; construct (I couldn't understand why everything works without changes if I don't use this construct. :/ that's why)
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
