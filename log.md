@@ -352,6 +352,14 @@ Today I tried to understand the transaction isolation levels (I think I understo
 
 I also realized that pgadmin implicitly wraps all code in BEGIN; ... COMMIT; construct (I couldn't understand why everything works without changes if I don't use this construct. :/ that's why)
 
+### Day 53: December 7, Saturday
+
+**Today`s Progress**:
+
+Explored different types of integrity constraints in SQL and how to implement them with PostgreSQL. 
+
+Realized the difference between TEXT and VARCHAR. 
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
