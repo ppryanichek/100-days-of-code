@@ -360,6 +360,14 @@ Explored different types of integrity constraints in SQL and how to implement th
 
 Realized the difference between TEXT and VARCHAR. 
 
+### Day 54: December 8, Sunday
+
+**Today`s Progress**:
+
+I found out today how to manage user permissions in a DB ( about GRANT and REVOKE). 
+
+Also learned stored procedures 🤏 
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
