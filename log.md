@@ -368,6 +368,14 @@ I found out today how to manage user permissions in a DB ( about GRANT and REVOK
 
 Also learned stored procedures 🤏 
 
+### Day 55: December 9, Monday
+
+**Today`s Progress**:
+
+Today I was trying to understand the data analysis technique in SQL. 
+
+Learned about EXPLAIN (and how to read what it outputs).
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
