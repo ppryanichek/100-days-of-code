@@ -376,6 +376,12 @@ Today I was trying to understand the data analysis technique in SQL.
 
 Learned about EXPLAIN (and how to read what it outputs).
 
+### Day 56: December 10, Tuesday
+
+Today I learned about query optimization (JOINS optimization)
+
+Started to understand Dynamic SQL
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
