@@ -388,6 +388,12 @@ Today I learned about window functions and schemes.
 
 Next I will continue to delve into PostgreSQL, but in parallel to Java.
 
+### Day 58: December 12, Thursday
+
+Started learning Spring Framework, I decided to start with the basics first
+
+I figured it would take quite a long time.....
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
