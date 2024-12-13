@@ -394,6 +394,15 @@ Started learning Spring Framework, I decided to start with the basics first
 
 I figured it would take quite a long time.....
 
+### Day 59: December 13, Friday
+
+Created the most basic "hello" application with SpringBoot.
+
+I understood how to create spring applications and learned about annotations such as:
+* @RestController
+* @GetMapping
+* @RequestParam
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
