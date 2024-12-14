@@ -403,6 +403,15 @@ I understood how to create spring applications and learned about annotations suc
 * @GetMapping
 * @RequestParam
 
+### Day 60: December 14, Saturday
+
+SQL today!
+
+Learned about domains, attributes and tuples.
+
+Learned more about keys (candidate key, potential key, composite key).
+
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
