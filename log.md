@@ -411,6 +411,11 @@ Learned about domains, attributes and tuples.
 
 Learned more about keys (candidate key, potential key, composite key).
 
+### Day 61: December 15, Sunday
+
+Learned more about annotations and how Spring interacts with them
+
+Also learned a bit about the lombok library
 
 **Link(s) to work**
 
