@@ -417,6 +417,12 @@ Learned more about annotations and how Spring interacts with them
 
 Also learned a bit about the lombok library
 
+### Day 62: December 16, Monday
+
+Today I started to study MVCC and WAL
+
+Learned about EXCLUSION constraint (I guess I missed it somehow...).
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
