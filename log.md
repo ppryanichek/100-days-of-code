@@ -429,6 +429,10 @@ Today I continued studying SPRING, learned about methods (GET, POST, PUT, DELETE
 
 I got acquainted with "Postman" application, a very handy thing.
 
+### Day 64: December 18, Wednesday
+
+Learned about snapshots and in-page cleanup in Postgres
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
