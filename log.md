@@ -423,6 +423,12 @@ Today I started to study MVCC and WAL
 
 Learned about EXCLUSION constraint (I guess I missed it somehow...).
 
+### Day 63: December 17, Tuesday
+
+Today I continued studying SPRING, learned about methods (GET, POST, PUT, DELETE).
+
+I got acquainted with "Postman" application, a very handy thing.
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
