@@ -433,6 +433,12 @@ I got acquainted with "Postman" application, a very handy thing.
 
 Learned about snapshots and in-page cleanup in Postgres
 
+### Day 65: December 19, Thursday
+
+Learned a bit about JPA and hibernate today. 
+
+I saved the class to the database!✨
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
