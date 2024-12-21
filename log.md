@@ -439,6 +439,14 @@ Learned a bit about JPA and hibernate today.
 
 I saved the class to the database!✨
 
+### Day 66: December 21, Saturday
+
+Finished the course "Spring Fundamentals" on YouTube ,') 
+
+Following the example, I made an application with a student database with a full analysis of what's going on.
+
+and another +1 day to the Challenge.
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
