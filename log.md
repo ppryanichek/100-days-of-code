@@ -447,6 +447,12 @@ Following the example, I made an application with a student database with a full
 
 and another +1 day to the Challenge.
 
+### Day 67: December 22, Sunday
+
+I started to get acquainted with Docker, but I think I will continue later....
+
+Learned about HOT-updates in PostgreSQL
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
