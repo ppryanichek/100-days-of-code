@@ -457,6 +457,12 @@ Learned about HOT-updates in PostgreSQL
 
 Explored IoC in Spring and Spring Bean Scope today
 
+### Day 69: December 24, Tuesday
+
+Started working with Docker today 
+
+Learned how to run the required PostgreSQL version in the container, override the superuser and create a database with the required name.
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
