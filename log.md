@@ -463,6 +463,12 @@ Started working with Docker today
 
 Learned how to run the required PostgreSQL version in the container, override the superuser and create a database with the required name.
 
+### Day 70: December 25, Wednesday
+
+Today I fixed my knowledge about annotations in Spring
+
+I also learned more about bean scope and how it can affect an application
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
