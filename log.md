@@ -469,6 +469,14 @@ Today I fixed my knowledge about annotations in Spring
 
 I also learned more about bean scope and how it can affect an application
 
+### Day 71: December 26, Thursday
+
+Today my head is not working at all :/  
+
+Learned about 'systemd' and 'pg_ctl'
+
+Also learned ways to deploy PostgreSQL in Cloud
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
