@@ -477,6 +477,10 @@ Learned about 'systemd' and 'pg_ctl'
 
 Also learned ways to deploy PostgreSQL in Cloud
 
+### Day 72: December 27, Friday
+
+Learned the basics of authorization and authentication in Spring 
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
