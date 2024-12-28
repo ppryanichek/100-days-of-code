@@ -481,6 +481,10 @@ Also learned ways to deploy PostgreSQL in Cloud
 
 Learned the basics of authorization and authentication in Spring 
 
+### Day 73: December 28, Saturday
+
+Started learning PostgreSQL Logging
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
