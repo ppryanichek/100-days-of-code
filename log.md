@@ -485,6 +485,10 @@ Learned the basics of authorization and authentication in Spring
 
 Started learning PostgreSQL Logging
 
+### Day 74: December 29, Sunday
+
+Learned about OAuth 2.0 and how to make the home page visible to all (even unauthenticated) users 
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
