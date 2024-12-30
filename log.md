@@ -489,6 +489,10 @@ Started learning PostgreSQL Logging
 
 Learned about OAuth 2.0 and how to make the home page visible to all (even unauthenticated) users 
 
+### Day 75: December 30, Monday
+
+Learned about log formatting, format customization, message severity levels, and how to log requests
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
