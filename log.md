@@ -493,6 +493,12 @@ Learned about OAuth 2.0 and how to make the home page visible to all (even unaut
 
 Learned about log formatting, format customization, message severity levels, and how to log requests
 
+### Day 76: December 31, Tuesday
+
+Learned how to implement deauthentication....
+
+Started learning about JWT 
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
