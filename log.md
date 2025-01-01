@@ -499,6 +499,10 @@ Learned how to implement deauthentication....
 
 Started learning about JWT 
 
+### Day 77: January 1, Wednesday
+
+Found out how to create extensions in postgresql
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
