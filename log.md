@@ -503,6 +503,16 @@ Started learning about JWT
 
 Found out how to create extensions in postgresql
 
+### LOSING DAY: January 2, Thursday
+
+I think I failed this challenge. 
+
+It implies that you have to do practice, and I mostly get into the theoretical part because of my lack of knowledge
+
+:/ 
+
+So I'm going to continue learning every day (not to the detriment of my sleep). 
+
 **Link(s) to work**
 
 1.[Implement a method that calculates the factorial of a given natural number.](https://stepik.org/lesson/12762/step/8?auth=login&unit=3110)
